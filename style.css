@@ -1,0 +1,72 @@
+body{
+  background-color: #E4F9F5;
+  margin:0;
+  text-align: center;
+  font-family: "Merriweather", serif;
+
+}
+h1{
+  margin: 0;
+  padding-bottom: 20px;
+  font-family: "Sacramento",cursive;
+  font-size: 70px;
+  padding-top: 55px;
+  color: #11999E;
+  line-height: 2;
+}
+.profilephoto{
+  padding-top: 20px;
+  height: 350px;
+  width:200px;
+
+}
+.skillphoto{
+  height: 200PX;
+  width:200PX;
+}
+.contactphoto{
+  height: 200PX;
+  width:200PX;
+}
+.projectphoto{
+  height: 200PX;
+  width:200PX;
+}
+.experiencephoto{
+  height: 200PX;
+  width:200PX;
+}
+.blogphoto{
+  height: 200PX;
+  width:200PX;
+}
+
+h2{
+    font-family: "Montserrat" , sans-serif;
+    font-weight: normal;
+}
+p{
+    font-family: "Montserrat" , sans-serif;
+    font-size: 20px;
+    color: #11999E;
+}
+h3{
+    font-family: "Montserrat" , sans-serif;
+    color:  #11999E;
+}
+a{
+  color:  #11999E;
+}
+.upperContainer{
+  font-family: "Montserrat" , sans-serif;
+
+}
+.top-cloud{
+  position: relative;
+  left:300px;
+  top:50px;
+  padding-top: 20px;
+}
+.bottom-cloud{
+  position: absolute;
+}
